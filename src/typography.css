@@ -1,5 +1,5 @@
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Inter';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -7,31 +7,31 @@ body {
 .large-title {
   font-weight: 700;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 34px;
 }
 
 .title {
   font-weight: 700;
-  font-size: 14px;
-  line-height: 18px;
+  font-size: 20px;
+  line-height: 24px;
 }
 
 .text-lg {
   font-weight: 400;
   font-size: 16px;
-  line-height: 18px;
+  line-height: 17px;
 }
 
 .text-md {
   font-weight: 400;
   font-size: 15px;
-  line-height: 17px;
+  line-height: 18px;
 }
 
 .text-rg-bd {
   font-weight: 700;
   font-size: 14px;
-  line-height: 18px;
+  line-height: 12px;
 }
 
 span,
